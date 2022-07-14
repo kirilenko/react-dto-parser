@@ -4,10 +4,19 @@
     "name": "Nikolay Kirilenko"
   },
   "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.6.2",
+    "@mui/material": "^5.6.2",
+    "axios": "^0.26.1",
+    "axios-mock-adapter": "^1.20.0",
     "classnames": "^2.3.1",
+    "dayjs": "^1.11.2",
     "lodash": "^4.17.21",
+    "notistack": "^2.0.4",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-query": "^3.35.0",
     "styled-components": "^5.3.5"
   },
   "devDependencies": {
@@ -16,6 +25,7 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/react-hooks": "^8.0.1",
     "@testing-library/user-event": "^14.2.1",
+    "@types/axios": "^0.14.0",
     "@types/babel__core": "^7.1.19",
     "@types/lodash": "^4.14.182",
     "@types/node": "^18.0.0",
